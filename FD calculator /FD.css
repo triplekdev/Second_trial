@@ -128,7 +128,6 @@ input[type="range"]::-webkit-slider-thumb {
   cursor: pointer;
   background-color: #28a745;
 }
-
 select {
   background-color: #28a745;
   width: 100%;
