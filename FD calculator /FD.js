@@ -49,7 +49,6 @@ document.addEventListener("DOMContentLoaded", function() { //this makes sure it 
   uptotal(total.value);
   uprate(rate.value);
   uptime(time.value);
-  console.log(total.value)
 })
 
 function uptotal(value) {
