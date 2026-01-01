@@ -67,8 +67,6 @@ function uptime(value) {
   document.getElementById("pval").innerText = `${parseFloat(value)}`
 }
 
-
-
 function CalFD() {
   console.log(curValue)
   console.log(sign) // now it’s available here and i can now access because i declared it outside of both handlers
